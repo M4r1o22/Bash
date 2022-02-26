@@ -1,0 +1,68 @@
+Pobieranie:1 http://packages.microsoft.com/repos/code stable InRelease [10,4 kB]
+Pobieranie:2 http://kali.koyanet.lv/kali kali-rolling InRelease [30,6 kB]
+Pobrano 41,0 kB w 2s (20,1 kB/s)
+Czytanie list pakietów...
+Czytanie list pakietów...
+Budowanie drzewa zależności...
+Odczyt informacji o stanie...
+Obliczanie aktualizacji...
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  gnome-desktop3-data libgnome-desktop-3-19 libxkbregistry0
+Aby je usunąć należy użyć "sudo apt autoremove".
+Następujące pakiety zostały zatrzymane:
+  apt apt-utils bind9-dnsutils bind9-host bind9-libs cpp cpp-10 crackmapexec
+  dbus dbus-user-session dbus-x11 g++ g++-10 gcc gcc-10 gcc-10-base
+  gstreamer1.0-libav gstreamer1.0-plugins-bad gstreamer1.0-plugins-good hydra
+  intel-media-va-driver kali-desktop-core kali-desktop-xfce libapt-pkg6.0
+  libasan6 libatomic1 libavcodec58 libavfilter7 libavformat58 libavutil56
+  libcc1-0 libdbus-1-3 libegl-mesa0 libgbm1 libgcc-10-dev libgcc-s1
+  libgfortran5 libgl1-mesa-dri libglapi-mesa libglibmm-2.4-1v5 libglx-mesa0
+  libgomp1 libgs9 libgs9-common libgstreamer-plugins-bad1.0-0
+  libgupnp-igd-1.0-4 libhunspell-1.7-0 libitm1 libjavascriptcoregtk-4.0-18
+  liblsan0 libopenmpt0 libpostproc55 libpulse-mainloop-glib0 libpulse0
+  libpulsedsp libquadmath0 librubberband2 libsemanage-common libstdc++-10-dev
+  libstdc++6 libswresample3 libswscale5 libtsan0 libubsan1
+  libwebkit2gtk-4.0-37 libwpebackend-fdo-1.0-1 libxatracker2 libzbar0
+  linux-image-amd64 mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
+  metasploit-framework ntfs-3g passwd pavucontrol plocate postgresql
+  postgresql-client-common postgresql-common pulseaudio
+  pulseaudio-module-bluetooth pulseaudio-utils python3-apt python3-jinja2
+  python3-pylnk xfce4-whiskermenu-plugin
+0 aktualizowanych, 0 nowo instalowanych, 0 usuwanych i 87 nieaktualizowanych.
+[0;34mMESSAGE: Nasz pakiet mc jest już zainstalowany!
+[0;34mMESSAGE: Nasz pakiet zip jest już zainstalowany!
+[0;34mMESSAGE: Nasz pakiet unzip jest już zainstalowany!
+Pobieranie:1 http://packages.microsoft.com/repos/code stable InRelease [10,4 kB]
+Pobieranie:2 http://kali.koyanet.lv/kali kali-rolling InRelease [30,6 kB]
+Pobrano 41,0 kB w 1s (29,5 kB/s)
+Czytanie list pakietów...
+Czytanie list pakietów...
+Budowanie drzewa zależności...
+Odczyt informacji o stanie...
+Obliczanie aktualizacji...
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  gnome-desktop3-data libgnome-desktop-3-19 libxkbregistry0
+Aby je usunąć należy użyć "sudo apt autoremove".
+Następujące pakiety zostały zatrzymane:
+  apt apt-utils bind9-dnsutils bind9-host bind9-libs cpp cpp-10 crackmapexec
+  dbus dbus-user-session dbus-x11 g++ g++-10 gcc gcc-10 gcc-10-base
+  gstreamer1.0-libav gstreamer1.0-plugins-bad gstreamer1.0-plugins-good hydra
+  intel-media-va-driver kali-desktop-core kali-desktop-xfce libapt-pkg6.0
+  libasan6 libatomic1 libavcodec58 libavfilter7 libavformat58 libavutil56
+  libcc1-0 libdbus-1-3 libegl-mesa0 libgbm1 libgcc-10-dev libgcc-s1
+  libgfortran5 libgl1-mesa-dri libglapi-mesa libglibmm-2.4-1v5 libglx-mesa0
+  libgomp1 libgs9 libgs9-common libgstreamer-plugins-bad1.0-0
+  libgupnp-igd-1.0-4 libhunspell-1.7-0 libitm1 libjavascriptcoregtk-4.0-18
+  liblsan0 libopenmpt0 libpostproc55 libpulse-mainloop-glib0 libpulse0
+  libpulsedsp libquadmath0 librubberband2 libsemanage-common libstdc++-10-dev
+  libstdc++6 libswresample3 libswscale5 libtsan0 libubsan1
+  libwebkit2gtk-4.0-37 libwpebackend-fdo-1.0-1 libxatracker2 libzbar0
+  linux-image-amd64 mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers
+  metasploit-framework ntfs-3g passwd pavucontrol plocate postgresql
+  postgresql-client-common postgresql-common pulseaudio
+  pulseaudio-module-bluetooth pulseaudio-utils python3-apt python3-jinja2
+  python3-pylnk xfce4-whiskermenu-plugin
+0 aktualizowanych, 0 nowo instalowanych, 0 usuwanych i 87 nieaktualizowanych.
+[0;34mMESSAGE: Nasz pakiet mc jest już zainstalowany!
+[0;34mMESSAGE: Nasz pakiet zip jest już zainstalowany!
+[0;34mMESSAGE: Nasz pakiet unzip jest już zainstalowany!
